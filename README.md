@@ -35,7 +35,7 @@
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amdYqdvuV8?theme=dark&font=Roboto)](https://leetcode.com/amdYqdvuV8)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/varundve?theme=dark&font=Roboto)](https://leetcode.com/varundve)
 
 ### 📊 GitHub Stats
 
