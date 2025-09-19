@@ -31,6 +31,11 @@
 </p>
 
 ---
+## 📊 Coding Stats
+
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vedant_verma786?theme=dark&font=Roboto)](https://leetcode.com/amdYqdvuV8)
 
 ### 📊 GitHub Stats
 
